@@ -1,20 +1,21 @@
 html {
-    background-color: black;
     background-image: url(https://media.istockphoto.com/photos/fruit-and-berry-tarts-dessert-assorted-top-view-background-picture-id639365696);
     background-size: cover;
 }
 
 body {
     width: 80%;
-    background-color: #f7d5da;
-    margin: 0 auto;
+    background-color:white;
+    margin: auto;
     padding-bottom: 1.5em;
+    font-size: 20px;
 }
 
 header {
     width: 100%;
-    background-color: #ee8290;
+    background-color: #bb4757;
     height: 100px;
+    
 }
 
 header h1 {
@@ -23,14 +24,28 @@ header h1 {
     padding-top: 20px;
     font-size: 50px;
     font-family:Geneva;
+    color: white;
     
 }
 
 h2 {
     padding-left: 1em;
+    text-align: left;
+    font-size: 40px;
+}
+p {
+    padding: 20px 30px 0px 0px;
+    margin: 20px;
+    overflow: auto;
+    font-size: 25px;
+    
+    
+}
+h3 {
+    padding-left: 1em;
+    text-align: left;
+    font-size: 30px;
 }
 
-p {
-    padding-left: 1em;
-    padding-right: 1em;
-}
+
+
