@@ -62,10 +62,9 @@ p {
     
     
 }
-.top  {
-    min-height: 20px;
+.desserts li {
+        min-height: 200px
 }
- 
 h3 {
     padding-left: 1em;
     text-align: center;
