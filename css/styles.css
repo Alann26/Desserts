@@ -1,51 +1,88 @@
 html {
-    background-image: url(https://media.istockphoto.com/photos/fruit-and-berry-tarts-dessert-assorted-top-view-background-picture-id639365696);
+    background-image: url(https://img.allw.mn/thumbs/ni/y6/twk5ay0d5d844d7a6c7a0594787754_1080x1080.jpg);
     background-size: cover;
+    background-position: center ;
 }
 
 body {
-    width: 80%;
+    width: 70%;
     background-color:white;
     margin: auto;
     padding-bottom: 1.5em;
     font-size: 20px;
+    opacity: 94%;
+    border-radius: 90px;
 }
 
-header {
-    width: 100%;
-    background-color: #bb4757;
-    height: 100px;
+.header {
+    padding: 10px;
+    text-align: center;
+    background: #f7c8d4;
+    color: rgb(172, 55, 55);
+    font-size: 40px;
+   border-radius: 90px;
+   
     
-}
+  }
+  .header p {
+      font-family: Verdana;
+      font-weight: bold;
+  }
+  .navbar {
+      list-style-type: none;
+      text-align: center;
+      margin: auto;
+      height: 40px;
+      border-radius: 10px;
+      width: 80%;
 
-header h1 {
-    margin: 0 auto;
-    width: 220px;
-    padding-top: 20px;
-    font-size: 50px;
-    font-family:Geneva;
-    color: white;
-    
-}
+  }
+  .navbar li {
+      display: inline;
+  }
 
+.navbar a {
+    text-decoration: none;
+    padding: .2em 3em ;
+    color: rgb(133, 19, 66);
+    background-color: #f7c8d4;
+    border-radius: 20%;
+
+}
 h2 {
     padding-left: 1em;
-    text-align: left;
+    text-align: center;
     font-size: 40px;
 }
 p {
-    padding: 20px 30px 0px 0px;
+    padding: 20px 30px 20px 10px;
     margin: 20px;
     overflow: auto;
     font-size: 25px;
     
     
 }
+.top  {
+    min-height: 20px;
+}
+ 
 h3 {
     padding-left: 1em;
-    text-align: left;
+    text-align: center;
     font-size: 30px;
 }
 
+h5 {
+    font-family: Verdana;
+    text-align: center;
+    color: rgb(133, 19, 66);
+    font-size: 50px;
+    background-color:#f7c8d4;
+    
 
+}
 
+h5 p {
+    
+    
+}
