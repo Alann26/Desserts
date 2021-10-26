@@ -1,7 +1,7 @@
 html {
     background-image: url(https://img.allw.mn/thumbs/ni/y6/twk5ay0d5d844d7a6c7a0594787754_1080x1080.jpg);
-    background-size: cover;
-    background-position: center ;
+    background-size: 100%;
+    background-position: center;;
 }
 
 body {
@@ -84,4 +84,9 @@ h5 {
 h5 p {
     
     
+}
+footer{
+    text-align: center;
+    clear: both;
+    color:rgb(133, 19, 66) ;
 }
