@@ -1,7 +1,7 @@
 html {
     background-image: url(https://img.allw.mn/thumbs/ni/y6/twk5ay0d5d844d7a6c7a0594787754_1080x1080.jpg);
     background-size: 100%;
-    background-position: center;;
+    background-position: center;
 }
 
 body {
@@ -29,6 +29,7 @@ body {
   }
   .header p {
       font-family: Verdana;
+      font-weight: bold;
       font-size: 50%;
       margin: 0 ;
       padding: 0;
